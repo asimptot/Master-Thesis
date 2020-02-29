@@ -1,0 +1,83 @@
+Yapýlan araþtýrmalara göre istikrarsýzlýk ve kiþilerin kendilerini iþe veremeyiþinden kaynaklý problemlerden dolayý yýl geçtikçe þirkete ve ülke ekonomisine zararýn arttýðý anlaþýlmýþ.
+
+According to the researches, it is understood that the damage to the company and the country's economy increased after many years due to instability and problems caused by the inability of people to work. 
+
+-----
+
+Roberts and Escudero ise bir iþ yerinde yapýlan araþtýrmada, çalýþanlarýn boþa giden zamanlarýný israf olarak deðerlendirdiler.
+
+Roberts and Escudero, on the other hand, evaluated the wasted time of employees in a workplace study.
+
+-----
+
+Biz de yazýmýzda etkinliði artýrmak için mevcut iþ yerindeki verileri kullandýk.
+
+In our article, we used data from the current workplace to improve efficiency.
+
+-----
+
+Öncelikle, Her çalýþanýn baþka iþlerde baþarýlý olabileceði ön görüldü.
+
+First of all, it was predicted that each employee could be successful in other tasks.
+
+-----
+
+Kendi tasklarýnýn dýþýnda çalýþtýklarý tasklar için herkes belirli bir puana sahip olacak.
+
+Everyone will have a specific score for the tasks they work outside their own tasks.
+
+-----
+
+Puanlama kriteri ise sisteme girdikleri ve çözülebilen hatalar üzerinden olacak. Burada hatanýn priority'siyle doðru orantýlý biçimde puaný artacak. Gözden kaçan hatalar ve task'ýn tamamlanma süresi ise alacaðý puanla ters orantýlý olacak.
+
+The scoring criterion will be based on the bugs entered and resolved. Here the score will increase in proportion to the priority of the bug. Missed bugs and completion time of the task will be inversely proportional to the score.
+
+-----
+
+Kiþilerin en çok baþarýlý olduklarý iþler belirlendikten sonra ise kiþilerin profil özelliklerine göre iþe yeni baþlayacak kiþiye task önerme mekanizmasý geliþtirildi.
+
+After determining the most successful jobs of the people, according to the profile characteristics of the people, the mechanism to propose a task to the new person was developed.
+
+-----
+
+Burada hangi feature'larýn seçileceðiyle ilgili pek çok araþtýrmalar yapýldý.
+
+A lot of research has been done here about which features to choose.
+
+-----
+
+Job satisfaction ý ele alan tahminleme sisteminde feature lar iki grupta incelenmiþ. Organizasyonel featurelar olarak daha soyut özellikler kullanýlýrken, bireysel featurelar olarak daha somut olanlar tercih edilmiþ. 
+
+In the estimation system that deals with job satisfaction, features are examined in two groups. While more abstract features such as expectations, beliefs are used as organizational features, the more concrete ones such as age, gender, education are preferred as individual features.
+
+-----
+
+Bu yazýda organizasyonel kültür ve iþ tatmini arasý iliþkiyi inceleniyor. 
+
+This paper examines the relationship between organizational culture and job satisfaction.
+
+-----
+
+Makine öðrenmesi iþ öneri sisteminde ise insanlarýn iþ geçmiþlerine göre önerme yapýlýyor. Ele alýnan feature'lar deneyim, eðitim derecesi, unvan ve iþ deðiþtirme sýklýðý. Bu sistem ayný zamanda iþe yeni baþlayacak elemanýn iþten ne zaman ayrýlacaðýnýn bilgisi de öðreniyor.
+
+In the machine learning job suggestion system, people are proposed according to their job backgrounds. Features include experience, degree of education, title and frequency of job change.This system also learns when the new employee will leave work.
+
+-----
+
+2010 yýlýnda yapýlmýþ bir araþtýrmada skill'ler iþçilerin mevcut performansýna göre belirlenmiþ. Ýlk durumda mevcut iþçi herhangi bir göreve atanabiliyorken, ikinci durumda dýþarýdan gelen iþçilerin performanslarý iþveren tarafýndan yapýlýyor.
+
+In a research conducted in 2010, skills were determined according to the current performance of the workers. In the first case, the current worker can be assigned to any job, whereas in the second case, the performance of the external workers is performed by the employer.
+
+-----
+
+2009 yýlýnda task assignment üzerine yapýlan baþka bir çalýþmada ise görev öncelikleri baz alýnarak öneri sistemi yapýlmýþ.
+
+In another study on task assignment in 2009, a suggestion system was made based on task priorities.
+
+-----
+
+Kendi çalýþmamýzdaki öneri yöntemi olarak mevcut algoritmalar kullanýldý. Bunlar arasýndaki iliþkiler incelenerek hangi durumda hangisinin tercih edileceðine karar verilecek. En son ise tüm algoritmalarýn ortak iyi özellikleri toplanarak hibrit heuristic bir algoritma yazýlacak.
+
+Existing algorithms were used as the suggestion method in our own study. The relationship between them will be examined and the decision will be made. Lastly, a hybrid heuristic algorithm will be written by adding the common good properties of all algorithms.
+
+
