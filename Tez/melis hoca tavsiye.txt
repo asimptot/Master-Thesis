@@ -1,8 +1,0 @@
-tüm attributes'leri kýyasla
-decision tree 			=> precision tree olabilir
-tersten çalýþma
-
-herkes ayný sw'de koþmalý(projenin olgunlaþmasý)
-yazmalara baþla
-tasklarýn özellikleri bu
-attributes'ler ney ne iþe yarýyo
